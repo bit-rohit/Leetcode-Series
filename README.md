@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bit-rohit/Leetcode-Series/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/bit-rohit/Leetcode-Series/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bit-rohit/Leetcode-Series/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/bit-rohit/Leetcode-Series/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bit-rohit/Leetcode-Series/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bit-rohit/Leetcode-Series/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
